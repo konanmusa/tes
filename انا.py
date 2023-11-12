@@ -1,3 +1,5 @@
+صور الصيد دي زرقنوها
+
 # DeCoDe By @KO00NAN
 import requests,bs4,json,os,sys,random,datetime,time,re,threading
 import urllib3,rich,base64
