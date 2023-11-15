@@ -26,7 +26,7 @@ def haniID():
       pass
     else:
       print('')
-      print("\033[1;33mللاشتراك بالاداه راسل كونان @KO00NAN")
+      print("\033[1;33mلتشتغل معاك الاداة ارسل هاذا الايدي لكونان @KO00NAN")
       
       time.sleep(1)
       sys.exit()
