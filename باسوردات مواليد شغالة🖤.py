@@ -1441,7 +1441,7 @@ def passwrd():
 	sayang.append(panel(f'[bold green]%s [bold white]'%(okc), width=39, title=f"[bold green]الصيد الشغال بنحفظ بملف👇", style="bold hot_pink2")) 
 	sayang.append(panel(f'[bold yellow]%s [bold white]'%(cpc),width=39,title=f"[bold yellow]صيد السكيور ينحفظ بملف👇",style="bold hot_pink2"))
 	wa.print(Columns(sayang))
-	print(f'\n\t\t\t{P}حدثتها م تشفق يا عب اسي بتصيد 😌🔥{M}{P}')
+	print(f'\n\t\t\t{P}انتظر هلا كونان بجيبلك حساب 🥺🔥{M}{P}')
 	prog = Progress(SpinnerColumn('clock'),TextColumn('{task.description}'),BarColumn(),TextColumn('{task.percentage:.0f}%'))
 	des = prog.add_task('',total=len(id2))
 	with prog:
@@ -1694,7 +1694,7 @@ def crackmbasic(idf,pwv):
 	ua = random.choice(ugen)
 	#ua2 = random.choice(ugen2)
 	ses = requests.Session()
-	prog.update(des,description=f"{k}𝘼𝗟𝙤𝙐𝗦𝙃{x} {loop}/{len(id)} شغال​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​🔥:[bold green]{ok}[/] سكيور💔:[bold yellow]{cp}[/]")
+	prog.update(des,description=f"{k}KONAN{x} {loop}/{len(id)} شغال​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​🔥:[bold green]{ok}[/] سكيور💔:[bold yellow]{cp}[/]")
 	prog.advance(des) 
 	for pw in pwv:
 		try:
