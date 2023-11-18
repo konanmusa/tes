@@ -1459,6 +1459,7 @@ def passwrd():
 						
 						pwv.append(nmf)
 						pwv.append(frs+frs)
+						
 						pwv.append('54321'+frs)
 						pwv.append('4321'+frs)
 						pwv.append('321'+frs)
@@ -1480,8 +1481,15 @@ def passwrd():
 						pwv.append(frs+'1994')
 						pwv.append(frs+'1993')
 						pwv.append(frs+'1992')
-						pwv.append(frs+'1991')
-						pwv.append(frs+'1990')
+						pwv.append('1122334455')
+						pwv.append('١٢٣٤٥٦')
+						pwv.append('qwerty')
+						pwv.append('asdfgh')
+						pwv.append('zxcvbn')
+						pwv.append('99887766')
+						pwv.append('998877')
+						pwv.append('00998877')
+						pwv.append('009988')
 
 						 
 						 
@@ -1499,6 +1507,7 @@ def passwrd():
 						pwv.append(nmf)
 
 						pwv.append(frs+frs)
+						
 						pwv.append('54321'+frs)
 						pwv.append('4321'+frs)
 						pwv.append('321'+frs)
@@ -1520,8 +1529,15 @@ def passwrd():
 						pwv.append(frs+'1994')
 						pwv.append(frs+'1993')
 						pwv.append(frs+'1992')
-						pwv.append(frs+'1991')
-						pwv.append(frs+'1990')
+						pwv.append('1122334455')
+						pwv.append('١٢٣٤٥٦')
+						pwv.append('qwerty')
+						pwv.append('asdfgh')
+						pwv.append('zxcvbn')
+						pwv.append('99887766')
+						pwv.append('998877')
+						pwv.append('00998877')
+						pwv.append('009988')
 
 
 				if 'ya' in pwpluss: 
