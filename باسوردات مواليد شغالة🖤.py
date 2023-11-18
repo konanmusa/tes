@@ -1486,7 +1486,7 @@ def passwrd():
 						pwv.append('qwerty')
 						pwv.append('asdfgh')
 						pwv.append('zxcvbn')
-						pwv.append('99887766')
+						
 						pwv.append('998877')
 						pwv.append('00998877')
 						pwv.append('009988')
@@ -1534,7 +1534,7 @@ def passwrd():
 						pwv.append('qwerty')
 						pwv.append('asdfgh')
 						pwv.append('zxcvbn')
-						pwv.append('99887766')
+						
 						pwv.append('998877')
 						pwv.append('00998877')
 						pwv.append('009988')
