@@ -1459,7 +1459,6 @@ def passwrd():
 						
 						pwv.append(nmf)
 						pwv.append(frs+frs)
-						
 						pwv.append('54321'+frs)
 						pwv.append('4321'+frs)
 						pwv.append('321'+frs)
@@ -1467,6 +1466,11 @@ def passwrd():
 						pwv.append(frs+'12345')
 						pwv.append(frs+'1234')
 						pwv.append(frs+'123')
+						pwv.append(frs+'@12345')
+						pwv.append('112233445566')
+						pwv.append('1122334455')
+						pwv.append('11223344')
+						pwv.append('112233')
 						pwv.append(frs+'2005')
 						pwv.append(frs+'2004')
 						pwv.append(frs+'2003')
@@ -1507,7 +1511,6 @@ def passwrd():
 						pwv.append(nmf)
 
 						pwv.append(frs+frs)
-						
 						pwv.append('54321'+frs)
 						pwv.append('4321'+frs)
 						pwv.append('321'+frs)
@@ -1515,6 +1518,11 @@ def passwrd():
 						pwv.append(frs+'12345')
 						pwv.append(frs+'1234')
 						pwv.append(frs+'123')
+						pwv.append(frs+'@12345')
+						pwv.append('112233445566')
+						pwv.append('1122334455')
+						pwv.append('11223344')
+						pwv.append('112233')
 						pwv.append(frs+'2005')
 						pwv.append(frs+'2004')
 						pwv.append(frs+'2003')
