@@ -1180,7 +1180,7 @@ def passwrd():
 					pwv.append('654321'+frs)
 					pwv.append('0099887766')
 					pwv.append('20032003')
-					pwv.append('١٢٣٤٥٦')
+					pwv.append('321123')
 					pwv.append('١٢٣٤٥٦٧٨٩')
 					pwv.append('12345@12345')
 					pwv.append('12345@')
