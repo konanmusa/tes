@@ -1509,8 +1509,7 @@ def passwrd():
 
 					else:
 
-						pwv.append(nmf)
-
+						pwv.append(nmf
 						pwv.append(frs+frs)
 						pwv.append('54321'+frs)
 						pwv.append('4321'+frs)
